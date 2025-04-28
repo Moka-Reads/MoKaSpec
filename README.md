@@ -1,4 +1,4 @@
-= The MoKa Reads Specification
+# The MoKa Reads Specification
 
 The MoKa Reads Specification is a set of guidelines that is expected to be followed by MoKa Reads publications and research papers
 to ensure consistency and quality in the content.
